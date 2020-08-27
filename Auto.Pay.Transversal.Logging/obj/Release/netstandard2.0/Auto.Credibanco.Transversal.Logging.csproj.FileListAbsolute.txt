@@ -1,0 +1,12 @@
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\bin\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.deps.json
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\bin\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\bin\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\bin\Release\netstandard2.0\Auto.Credibanco.Transversal.Common.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\bin\Release\netstandard2.0\Auto.Credibanco.Transversal.Common.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\obj\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\obj\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\obj\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.AssemblyInfo.cs
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\obj\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\obj\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.csproj.CopyComplete
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\obj\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Transversal.Logging\obj\Release\netstandard2.0\Auto.Credibanco.Transversal.Logging.pdb

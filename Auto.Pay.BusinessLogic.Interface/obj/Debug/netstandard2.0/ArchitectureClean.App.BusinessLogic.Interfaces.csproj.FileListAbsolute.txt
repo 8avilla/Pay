@@ -1,0 +1,12 @@
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.deps.json
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\bin\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\bin\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.csprojAssemblyReference.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.csproj.CoreCompileInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.AssemblyInfoInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.AssemblyInfo.cs
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.csproj.CopyComplete
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Interface\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Interfaces.pdb

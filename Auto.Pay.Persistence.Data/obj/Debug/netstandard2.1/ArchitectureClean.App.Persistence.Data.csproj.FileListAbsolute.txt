@@ -1,0 +1,15 @@
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\bin\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Data.deps.json
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\bin\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Data.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\bin\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Data.pdb
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\bin\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Entities.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\bin\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Interface.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\bin\Debug\netstandard2.1\ArchitectureClean.App.Transversal.Common.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\bin\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Interface.pdb
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\bin\Debug\netstandard2.1\ArchitectureClean.App.Transversal.Common.pdb
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\bin\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Entities.pdb
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\obj\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Data.csprojAssemblyReference.cache
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\obj\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Data.AssemblyInfoInputs.cache
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\obj\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Data.AssemblyInfo.cs
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\obj\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Data.csproj.CopyComplete
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\obj\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Data.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Data\obj\Debug\netstandard2.1\ArchitectureClean.App.Persistence.Data.pdb

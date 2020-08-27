@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T51uK7tjRxNoEcnornx9ZHkzp/3J1xcMZWHdJ4SXuwZhxkKFDdR69D5FU12JNQqArxlX9x4clr+QNlNddk2wKA==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Pay\\Auto.Pay.Persistence.Entities\\Auto.Pay.BusinessLogic.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

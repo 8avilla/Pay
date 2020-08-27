@@ -1,0 +1,9 @@
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.CoreWebServices\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.CoreWebServices.deps.json
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.CoreWebServices\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.CoreWebServices.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.CoreWebServices\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.CoreWebServices.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.CoreWebServices.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.CoreWebServices.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.CoreWebServices.AssemblyInfo.cs
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.CoreWebServices.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.CoreWebServices.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.CoreWebServices.pdb

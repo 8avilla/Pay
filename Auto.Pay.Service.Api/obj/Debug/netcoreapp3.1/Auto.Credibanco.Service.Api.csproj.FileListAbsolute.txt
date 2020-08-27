@@ -1,0 +1,7 @@
+C:\Proyectos\Credibanco\ArchitectureClean.App.Service.Api\obj\Debug\netcoreapp3.1\Auto.Credibanco.Service.Api.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Service.Api\obj\Debug\netcoreapp3.1\Auto.Credibanco.Service.Api.Resources.Resource.resources
+C:\Proyectos\Credibanco\ArchitectureClean.App.Service.Api\obj\Debug\netcoreapp3.1\Auto.Credibanco.Service.Api.csproj.GenerateResource.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Service.Api\obj\Debug\netcoreapp3.1\Auto.Credibanco.Service.Api.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Service.Api\obj\Debug\netcoreapp3.1\Auto.Credibanco.Service.Api.AssemblyInfo.cs
+C:\Proyectos\Credibanco\ArchitectureClean.App.Service.Api\obj\Debug\netcoreapp3.1\Auto.Credibanco.Service.Api.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Service.Api\obj\Debug\netcoreapp3.1\Auto.Credibanco.Service.Api.MvcApplicationPartsAssemblyInfo.cache

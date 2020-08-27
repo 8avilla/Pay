@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YhuC02h9pVZ13KyS26KWnYblr7ioqw97u9rsHclqoBY0EmLw1jbV1wk6lS7ZkD61sIBEKXW1tPzQK2uIFU9pdA==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Pay\\Auto.Pay.Transversal.Common\\Auto.Pay.Transversal.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

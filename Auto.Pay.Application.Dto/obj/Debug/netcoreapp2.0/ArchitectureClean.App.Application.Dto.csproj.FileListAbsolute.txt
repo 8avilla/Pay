@@ -1,0 +1,17 @@
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Application.Dto\bin\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.deps.json
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Application.Dto\bin\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Application.Dto\bin\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.pdb
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.csprojAssemblyReference.cache
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.AssemblyInfoInputs.cache
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.AssemblyInfo.cs
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Dto\bin\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.deps.json
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Dto\bin\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Dto\bin\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.csprojAssemblyReference.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.csproj.CoreCompileInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.AssemblyInfoInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.AssemblyInfo.cs
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Dto\obj\Debug\netcoreapp2.0\ArchitectureClean.App.Application.Dto.pdb

@@ -1,0 +1,9 @@
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Entities\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.deps.json
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Entities\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Entities\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.AssemblyInfo.cs
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.pdb

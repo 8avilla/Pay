@@ -1,0 +1,16 @@
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Transversal.Common\bin\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.deps.json
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Transversal.Common\bin\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Transversal.Common\bin\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.pdb
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.AssemblyInfo.cs
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Transversal.Common\bin\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.deps.json
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Transversal.Common\bin\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Transversal.Common\bin\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.AssemblyInfoInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.AssemblyInfo.cs
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\ArchitectureClean.App.Transversal.Common.csprojAssemblyReference.cache

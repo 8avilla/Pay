@@ -1,0 +1,16 @@
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.AssemblyInfo.cs
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\bin\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.deps.json
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\bin\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\bin\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\bin\Debug\netstandard2.0\Auto.Credibanco.Persistence.Entities.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\bin\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\bin\Debug\netstandard2.0\Auto.Credibanco.Persistence.Entities.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\bin\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.csproj.CopyComplete
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.Interface\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.pdb

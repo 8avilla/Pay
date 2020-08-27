@@ -1,0 +1,4 @@
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Interfaces\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Interfaces.csprojAssemblyReference.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Interfaces\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Interfaces.csproj.CoreCompileInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Interfaces\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Interfaces.AssemblyInfoInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Interfaces\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Interfaces.AssemblyInfo.cs

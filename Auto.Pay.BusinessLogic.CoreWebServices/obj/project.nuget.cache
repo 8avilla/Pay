@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IeMA4pam1zAC+J1Wkq6bQEqiZpxU2+qim+ShtxHNNvXidlX+k0VDdaL8j6Oc2LOwENnnXh218s3ANh+dU3lmow==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Credibanco\\ArchitectureClean.App.BusinessLogic.CoreWebServices\\Auto.Credibanco.BusinessLogic.CoreWebServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\bin\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.deps.json
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\bin\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\bin\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\bin\Release\netstandard2.0\Auto.Credibanco.Persistence.Entities.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\bin\Release\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\bin\Release\netstandard2.0\Auto.Credibanco.Transversal.Common.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\bin\Release\netstandard2.0\Auto.Credibanco.Persistence.Entities.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\bin\Release\netstandard2.0\Auto.Credibanco.Persistence.Interfaces.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\bin\Release\netstandard2.0\Auto.Credibanco.Transversal.Common.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\obj\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\obj\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\obj\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.AssemblyInfo.cs
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\obj\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\obj\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.csproj.CopyComplete
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\obj\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Data\obj\Release\netstandard2.0\Auto.Credibanco.Persistence.Data.pdb

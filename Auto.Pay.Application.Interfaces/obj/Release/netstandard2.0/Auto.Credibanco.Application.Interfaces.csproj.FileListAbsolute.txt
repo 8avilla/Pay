@@ -1,0 +1,14 @@
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\bin\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.deps.json
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\bin\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\bin\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\bin\Release\netstandard2.0\Auto.Credibanco.Application.Dtos.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\bin\Release\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\bin\Release\netstandard2.0\Auto.Credibanco.Application.Dtos.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\bin\Release\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\obj\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\obj\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\obj\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.AssemblyInfo.cs
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\obj\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\obj\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.csproj.CopyComplete
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\obj\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Application.Interfaces\obj\Release\netstandard2.0\Auto.Credibanco.Application.Interfaces.pdb

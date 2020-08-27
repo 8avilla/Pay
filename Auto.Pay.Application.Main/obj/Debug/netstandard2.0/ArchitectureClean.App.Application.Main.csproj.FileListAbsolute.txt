@@ -1,0 +1,9 @@
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Main\bin\Debug\netstandard2.0\ArchitectureClean.App.Application.Main.deps.json
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Main\bin\Debug\netstandard2.0\ArchitectureClean.App.Application.Main.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Main\bin\Debug\netstandard2.0\ArchitectureClean.App.Application.Main.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Main\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Main.csprojAssemblyReference.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Main\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Main.csproj.CoreCompileInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Main\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Main.AssemblyInfoInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Main\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Main.AssemblyInfo.cs
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Main\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Main.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Application.Main\obj\Debug\netstandard2.0\ArchitectureClean.App.Application.Main.pdb

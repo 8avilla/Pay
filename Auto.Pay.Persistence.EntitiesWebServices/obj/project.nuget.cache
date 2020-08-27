@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yMi/UItAg9k1l2zKQQ2qIn1mEJGTzyuSHPyTlSKJGWPOnwgLBCtdGNS2dQVLFzQ19mQgvdX5UddrshH2j9dSAg==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Pay\\Auto.Pay.Persistence.EntitiesWebServices\\Auto.Pay.Persistence.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

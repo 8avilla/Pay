@@ -1,0 +1,17 @@
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.deps.json
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.pdb
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.csprojAssemblyReference.cache
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.AssemblyInfoInputs.cache
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.AssemblyInfo.cs
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.deps.json
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.csprojAssemblyReference.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.csproj.CoreCompileInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.AssemblyInfoInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.AssemblyInfo.cs
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.CoreWebServices\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.CoreWebServices.pdb

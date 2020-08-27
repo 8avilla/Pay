@@ -1,0 +1,4 @@
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.Core\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Core.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.Core\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Core.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.Core\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Core.AssemblyInfo.cs
+C:\Proyectos\Credibanco\ArchitectureClean.App.BusinessLogic.Core\obj\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Core.csproj.CoreCompileInputs.cache

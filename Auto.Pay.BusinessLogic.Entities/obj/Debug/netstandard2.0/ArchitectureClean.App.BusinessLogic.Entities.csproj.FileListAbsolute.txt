@@ -1,0 +1,4 @@
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Entities\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Entities.deps.json
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Entities\bin\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Entities.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.BusinessLogic.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.BusinessLogic.Entities.AssemblyInfo.cs

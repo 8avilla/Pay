@@ -1,0 +1,12 @@
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\bin\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.deps.json
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\bin\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.dll
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\bin\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.pdb
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\bin\Debug\netstandard2.0\Auto.Pay.Transversal.Common.dll
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\bin\Debug\netstandard2.0\Auto.Pay.Transversal.Common.pdb
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\obj\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.csprojAssemblyReference.cache
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\obj\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\obj\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.AssemblyInfo.cs
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\obj\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\obj\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.csproj.CopyComplete
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\obj\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.dll
+C:\Proyectos\Pay\Auto.Pay.Transversal.Logging\obj\Debug\netstandard2.0\Auto.Pay.Transversal.Logging.pdb

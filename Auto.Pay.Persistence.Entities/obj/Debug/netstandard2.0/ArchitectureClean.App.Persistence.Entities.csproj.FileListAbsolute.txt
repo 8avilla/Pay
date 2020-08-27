@@ -1,0 +1,17 @@
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\bin\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.deps.json
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\bin\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\bin\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.pdb
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.csprojAssemblyReference.cache
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.AssemblyInfoInputs.cache
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.AssemblyInfo.cs
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.dll
+C:\Users\luhero04\Documents\GitHub\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\bin\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.deps.json
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\bin\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\bin\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.AssemblyInfo.cs
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.dll
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.pdb
+C:\Proyectos\ArchitectureClean\ArchitectureClean.App.Persistence.Entities\obj\Debug\netstandard2.0\ArchitectureClean.App.Persistence.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="UsersRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.1" />
+    <PackageReference Include="UmbracoCms.Core" Version="8.5.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Auto.Pay.Persistence.Data\Auto.Pay.Persistence.Data.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Persistence.EntitiesWebServices\Auto.Pay.Persistence.Entities.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Persistence.Interface\Auto.Pay.Persistence.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

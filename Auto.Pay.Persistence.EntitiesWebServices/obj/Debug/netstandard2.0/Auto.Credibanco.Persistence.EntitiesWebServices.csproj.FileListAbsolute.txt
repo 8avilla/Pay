@@ -1,0 +1,9 @@
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.EntitiesWebServices\bin\Debug\netstandard2.0\Auto.Credibanco.Persistence.EntitiesWebServices.deps.json
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.EntitiesWebServices\bin\Debug\netstandard2.0\Auto.Credibanco.Persistence.EntitiesWebServices.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.EntitiesWebServices\bin\Debug\netstandard2.0\Auto.Credibanco.Persistence.EntitiesWebServices.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.EntitiesWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.EntitiesWebServices.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.EntitiesWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.EntitiesWebServices.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.EntitiesWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.EntitiesWebServices.AssemblyInfo.cs
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.EntitiesWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.EntitiesWebServices.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.EntitiesWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.EntitiesWebServices.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Persistence.EntitiesWebServices\obj\Debug\netstandard2.0\Auto.Credibanco.Persistence.EntitiesWebServices.pdb

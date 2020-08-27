@@ -1,0 +1,12 @@
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\bin\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.deps.json
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\bin\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\bin\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\bin\Debug\netstandard2.0\Auto.Credibanco.BusinessLogic.Entities.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.AssemblyInfo.cs
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.csproj.CopyComplete
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Mapper\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Mapper.pdb

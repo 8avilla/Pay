@@ -1,0 +1,8 @@
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Common\bin\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.deps.json
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Common\bin\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Common\bin\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.pdb
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.AssemblyInfo.cs
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.dll
+C:\Proyectos\Credibanco\ArchitectureClean.App.Transversal.Common\obj\Debug\netstandard2.0\Auto.Credibanco.Transversal.Common.pdb
