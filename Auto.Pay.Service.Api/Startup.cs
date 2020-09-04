@@ -21,8 +21,8 @@ using Auto.Pay.Persistence.Data;
 using Auto.Pay.Persistence.Repository;
 using Auto.Pay.Transversal.Logging;
 using Auto.Pay.Application.Interfaces;
-using Auto.Pay.Aplicacion.Main;
 using Microsoft.EntityFrameworkCore.Diagnostics;
+using Auto.Pay.Application.Main;
 
 namespace Auto.Pay.Servicio.Api
 {
@@ -58,6 +58,7 @@ namespace Auto.Pay.Servicio.Api
 
             services.AddScoped<IManagerBusinessLogic, ManagerBusinessLogic>();
             services.AddScoped<IOrderApplication, OrderApplication>();
+            services.AddScoped<IPaymentReferenceApplication, PaymentReferenceApplication>();
             services.AddScoped<IUnitOfWorkPersistence, UnitOfWorkPersistence>();
             services.AddScoped(typeof(IGenericPersistenceRepository<>), typeof(GenericPersistenceRepository<>));
 
@@ -134,10 +135,12 @@ namespace Auto.Pay.Servicio.Api
                 });
             });
 
+            var j = Configuration.GetConnectionString("PayConnection");
+
             services.AddDbContext<ContextPay>(
                 options => options
                 .ConfigureWarnings(warnings => warnings.Ignore(CoreEventId.DetachedLazyLoadingWarning))
-                .UseSqlServer(Configuration.GetConnectionString("DefaultConnection")), ServiceLifetime.Transient);
+                .UseSqlServer(j), ServiceLifetime.Transient);
 
             //services.AddDbContext<ContextPay>(options =>
                     //options.UseSqlServer("server=192.168.4.35\\QURII; initial catalog=ContratoDigital; user id= saa; password=D3v3l0_2020$;"));

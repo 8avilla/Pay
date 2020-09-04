@@ -32,19 +32,28 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="10.0.0" />
-    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
     <PackageReference Include="Microsoft.AspNet.Mvc.Core" Version="6.0.0-rc1-final" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.7" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
-    <PackageReference Include="Microsoft.AspNetCore.Razor.Language" Version="3.1.1" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.1" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
-    <PackageReference Include="Serilog.Extensions.Logging.File" Version="1.1.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.0.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.0.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Language" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="2.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.5.1" />
     <PackageReference Include="Swashbuckle.Core" Version="5.6.0" />
     <PackageReference Include="System.ComponentModel" Version="4.3.0" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
@@ -57,12 +66,11 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\Auto.Pay.Application.Dto\Auto.Pay.Application.Dtos.csproj" />
-    <ProjectReference Include="..\Auto.Pay.Application.Interfaces\Auto.Pay.Application.Interfaces.csproj" />
-    <ProjectReference Include="..\Auto.Pay.Application.Main\Auto.Pay.Application.Main.csproj" />
-    <ProjectReference Include="..\Auto.Pay.BusinessLogic.Core\Auto.Pay.BusinessLogic.Core.csproj" />
-    <ProjectReference Include="..\Auto.Pay.Persistence.Data\Auto.Pay.Persistence.Data.csproj" />
-    <ProjectReference Include="..\Auto.Pay.Persistence.Repository\Auto.Pay.Persistence.Repository.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Application.Interfaces2\Auto.Pay.Application.Interfaces.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Application.Main2\Auto.Pay.Application.Main.csproj" />
+    <ProjectReference Include="..\Auto.Pay.BusinessLogic.Core2\Auto.Pay.BusinessLogic.Core.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Persistence.Data2\Auto.Pay.Persistence.Data.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Persistence.Repository2\Auto.Pay.Persistence.Repository.csproj" />
     <ProjectReference Include="..\Auto.Pay.Transversal.Common\Auto.Pay.Transversal.Common.csproj" />
     <ProjectReference Include="..\Auto.Pay.Transversal.Logging\Auto.Pay.Transversal.Logging.csproj" />
   </ItemGroup>

@@ -1,0 +1,17 @@
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\bin\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.deps.json
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\bin\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.runtimeconfig.json
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\bin\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.runtimeconfig.dev.json
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\bin\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.dll
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\bin\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.pdb
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\bin\Debug\netcoreapp3.1\Auto.Pay.Persistence.Entities.dll
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\bin\Debug\netcoreapp3.1\Auto.Pay.Transversal.Common.dll
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\bin\Debug\netcoreapp3.1\Auto.Pay.Persistence.Entities.pdb
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\bin\Debug\netcoreapp3.1\Auto.Pay.Transversal.Common.pdb
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\obj\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.csprojAssemblyReference.cache
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\obj\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.AssemblyInfoInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\obj\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.AssemblyInfo.cs
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\obj\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.csproj.CoreCompileInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\obj\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.csproj.CopyComplete
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\obj\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.dll
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\obj\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.pdb
+C:\Proyectos\Pay\Auto.Pay.Persistence.Interfaces2\obj\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.genruntimeconfig.cache

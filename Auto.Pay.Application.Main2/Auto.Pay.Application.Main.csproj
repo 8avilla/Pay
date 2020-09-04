@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Auto.Pay.Application.Dtos2\Auto.Pay.Application.Dtos.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Application.Interfaces2\Auto.Pay.Application.Interfaces.csproj" />
+    <ProjectReference Include="..\Auto.Pay.BusinessLogic.Core2\Auto.Pay.BusinessLogic.Core.csproj" />
+  </ItemGroup>
+
+</Project>

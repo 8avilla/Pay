@@ -1,0 +1,12 @@
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\obj\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.csprojAssemblyReference.cache
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\obj\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.AssemblyInfoInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\obj\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.AssemblyInfo.cs
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\obj\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.csproj.CoreCompileInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\bin\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.deps.json
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\bin\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.dll
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\bin\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.pdb
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\bin\Debug\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities2.dll
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\bin\Debug\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities2.pdb
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\obj\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.csproj.CopyComplete
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\obj\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.dll
+C:\Proyectos\Pay\Auto.Pay.Application.Dtos2\obj\Debug\netcoreapp3.1\Auto.Pay.Application.Dtos2.pdb

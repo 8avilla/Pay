@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using Auto.Pay.BusinessLogic.Core;
 using Auto.Pay.Servicio.Api.Helpers;
 using Microsoft.AspNetCore.Authorization;
 using Auto.Pay.Application.Dtos;
@@ -26,9 +25,9 @@ namespace Auto.Pay.Servicio.Api.Controllers
 
 
 		[HttpGet("StatusOrden")]
-		public ActionResult StatusOrden(string orderId, string paymentReference, string language)
+		public ActionResult StatusOrden(string orderCredibancoId, string language)
 		{
-			return SuccesOk(_orderApplication.StatusOrden(orderId, paymentReference, language));
+			return SuccesOk(_orderApplication.StatusOrden(orderCredibancoId, language));
 		}
 	}
 }

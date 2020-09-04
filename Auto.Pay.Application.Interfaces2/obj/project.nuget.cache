@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vxhp+cmnkzGYZbEHWpFKsCFRPITKfhRB0qE6ecnTQxoKU2SLep2OBn/X6gkXMSpnNdkFEvJiQcyD9NYKsXihVw==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Pay\\Auto.Pay.Application.Interfaces2\\Auto.Pay.Application.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVAN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

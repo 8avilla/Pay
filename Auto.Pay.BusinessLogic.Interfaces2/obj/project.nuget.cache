@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+h8UfAaeR5H1xSknioDz+XIzxkztX+xzEMJzDsvFwmF+/0rsIHxDHrCEqZDi39zHdrlIAq3yA+7XO/Vin39eMw==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Pay\\Auto.Pay.BusinessLogic.Interfaces2\\Auto.Pay.BusinessLogic.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVAN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

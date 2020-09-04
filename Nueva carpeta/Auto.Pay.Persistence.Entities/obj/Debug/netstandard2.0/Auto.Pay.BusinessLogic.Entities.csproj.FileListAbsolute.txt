@@ -1,0 +1,9 @@
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Entities\bin\Debug\netstandard2.0\Auto.Pay.BusinessLogic.Entities.deps.json
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Entities\bin\Debug\netstandard2.0\Auto.Pay.BusinessLogic.Entities.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Entities\bin\Debug\netstandard2.0\Auto.Pay.BusinessLogic.Entities.pdb
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Pay.BusinessLogic.Entities.csprojAssemblyReference.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Pay.BusinessLogic.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Pay.BusinessLogic.Entities.AssemblyInfo.cs
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Pay.BusinessLogic.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Pay.BusinessLogic.Entities.dll
+C:\Proyectos\Credibanco\Auto.Credibanco.Persistence.Entities\obj\Debug\netstandard2.0\Auto.Pay.BusinessLogic.Entities.pdb

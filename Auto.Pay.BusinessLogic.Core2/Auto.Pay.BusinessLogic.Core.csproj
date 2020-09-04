@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Auto.Pay.BusinessLogic.Entities2\Auto.Pay.BusinessLogic.Entities.csproj" />
+    <ProjectReference Include="..\Auto.Pay.BusinessLogic.Interfaces2\Auto.Pay.BusinessLogic.Interfaces.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Persistence.Entities2\Auto.Pay.Persistence.Entities.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Persistence.Interfaces2\Auto.Pay.Persistence.Interfaces.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Transversal.Mapper\Auto.Pay.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

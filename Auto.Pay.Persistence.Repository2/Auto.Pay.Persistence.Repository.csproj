@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Auto.Pay.Persistence.Data2\Auto.Pay.Persistence.Data.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Persistence.Entities2\Auto.Pay.Persistence.Entities.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Persistence.Interfaces2\Auto.Pay.Persistence.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

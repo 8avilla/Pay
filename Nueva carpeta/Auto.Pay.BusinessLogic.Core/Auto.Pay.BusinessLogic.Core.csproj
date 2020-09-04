@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Auto.Pay.Transversal.Common\Auto.Pay.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Auto.Pay.Transversal.Mapper\Auto.Pay.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>
