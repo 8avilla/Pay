@@ -11141,6 +11141,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Auto.Pay.Application.Dtos >= 1.0.0",
       "Auto.Pay.Application.Interfaces >= 1.0.0",
       "Auto.Pay.Application.Main >= 1.0.0",
       "Auto.Pay.BusinessLogic.Core >= 1.0.0",
@@ -11200,6 +11201,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Proyectos\\Pay\\Auto.Pay.Application.Dtos2\\Auto.Pay.Application.Dtos.csproj": {
+              "projectPath": "C:\\Proyectos\\Pay\\Auto.Pay.Application.Dtos2\\Auto.Pay.Application.Dtos.csproj"
+            },
             "C:\\Proyectos\\Pay\\Auto.Pay.Application.Interfaces2\\Auto.Pay.Application.Interfaces.csproj": {
               "projectPath": "C:\\Proyectos\\Pay\\Auto.Pay.Application.Interfaces2\\Auto.Pay.Application.Interfaces.csproj"
             },
@@ -11333,7 +11337,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   },

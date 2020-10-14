@@ -23,11 +23,10 @@ namespace Auto.Pay.Servicio.Api.Controllers
 			return SuccesOk(_orderApplication.RegisterOrder(registerOrderDto));
 		}
 
-
 		[HttpGet("StatusOrden")]
-		public ActionResult StatusOrden(string orderCredibancoId, string language)
+		public ActionResult StatusOrden(string orderCredibancoId, string businessID, string paymentReferenceGuid)
 		{
-			return SuccesOk(_orderApplication.StatusOrden(orderCredibancoId, language));
+			return SuccesOk(_orderApplication.StatusOrden(orderCredibancoId, businessID, paymentReferenceGuid));
 		}
 	}
 }

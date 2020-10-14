@@ -20,7 +20,7 @@ namespace Auto.Pay.Persistence.Repository
         
 
         private IGenericPersistenceRepository<PaymentReferenceEP> PaymentReferenceRepository;
-        public IGenericPersistenceRepository<PaymentReferenceEP> PaymentReference => PaymentReferenceRepository ?? (PaymentReferenceRepository = new GenericPersistenceRepository<PaymentReferenceEP>(_contextoPay));
+        public IGenericPersistenceRepository<PaymentReferenceEP> PaymentReference => PaymentReferenceRepository ??= new GenericPersistenceRepository<PaymentReferenceEP>(_contextoPay);
 
         public void SaveChanges()
         {

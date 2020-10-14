@@ -20,12 +20,11 @@ namespace Auto.Pay.Application.Main
 		{
             RequestRegisterOrderCredibancoEBL orderEBL = registerOrderDTO.ConvertToEntity();
 
-            _managerBusinessLogic.Order.RegisterOrder();
             return _managerBusinessLogic.Order.RegisterOrder(orderEBL);
 		}
-		public EntityBusinessLogic StatusOrden(string orderCredibancoId, string language)
+		public EntityBusinessLogic StatusOrden(string orderCredibancoId, string businessID, string paymentReferenceGuid)
         {
-            return _managerBusinessLogic.Order.StatusOrden(orderCredibancoId,  language);
+            return _managerBusinessLogic.Order.StatusOrden(orderCredibancoId, businessID, paymentReferenceGuid);
 		}
 
 

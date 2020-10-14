@@ -1,0 +1,9 @@
+C:\Proyectos\Pay\Auto.Pay.Transversal.Common\bin\Release\netstandard2.0\Auto.Pay.Transversal.Common.deps.json
+C:\Proyectos\Pay\Auto.Pay.Transversal.Common\bin\Release\netstandard2.0\Auto.Pay.Transversal.Common.dll
+C:\Proyectos\Pay\Auto.Pay.Transversal.Common\bin\Release\netstandard2.0\Auto.Pay.Transversal.Common.pdb
+C:\Proyectos\Pay\Auto.Pay.Transversal.Common\obj\Release\netstandard2.0\Auto.Pay.Transversal.Common.AssemblyInfoInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Transversal.Common\obj\Release\netstandard2.0\Auto.Pay.Transversal.Common.AssemblyInfo.cs
+C:\Proyectos\Pay\Auto.Pay.Transversal.Common\obj\Release\netstandard2.0\Auto.Pay.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Transversal.Common\obj\Release\netstandard2.0\Auto.Pay.Transversal.Common.dll
+C:\Proyectos\Pay\Auto.Pay.Transversal.Common\obj\Release\netstandard2.0\Auto.Pay.Transversal.Common.pdb
+C:\Proyectos\Pay\Auto.Pay.Transversal.Common\obj\Release\netstandard2.0\Auto.Pay.Transversal.Common.csprojAssemblyReference.cache

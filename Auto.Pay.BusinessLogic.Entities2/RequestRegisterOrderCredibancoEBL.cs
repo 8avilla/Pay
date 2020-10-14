@@ -12,6 +12,9 @@ namespace Auto.Pay.BusinessLogic.Entities
         [JsonProperty(PropertyName = "userName")]
         public string UserName { get; set; }
 
+        [JsonProperty(PropertyName = "businessID")]
+        public string BusinessID { get; set; }
+
         [JsonProperty(PropertyName = "paymentReferenceGuid")]
         public string PaymentReferenceGuid { get; set; }
 

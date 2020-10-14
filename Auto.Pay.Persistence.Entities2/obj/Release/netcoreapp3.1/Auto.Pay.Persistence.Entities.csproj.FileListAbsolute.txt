@@ -1,0 +1,12 @@
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\bin\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.deps.json
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\bin\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.runtimeconfig.json
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\bin\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.runtimeconfig.dev.json
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\bin\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.dll
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\bin\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.pdb
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.AssemblyInfo.cs
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.dll
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.pdb
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.genruntimeconfig.cache
+C:\Proyectos\Pay\Auto.Pay.Persistence.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.Persistence.Entities.csprojAssemblyReference.cache

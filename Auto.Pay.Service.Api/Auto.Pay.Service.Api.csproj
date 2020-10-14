@@ -2,33 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
+    <AspNetCoreModuleName>AspNetCoreModule</AspNetCoreModuleName>
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Controllers\Personalizados\TiposArticulosPropiedadesController.cs" />
-    <Compile Remove="Controllers\PruebasTipoPropiedadesController.cs" />
-    <Compile Remove="Controllers\BodegasPruebasController.cs" />
-    <Compile Remove="Controllers\BodegasController.cs" />
-    <Compile Remove="Controllers\ComprasController.cs" />
-    <Compile Remove="Controllers\DepartamentosController.cs" />
-    <Compile Remove="Controllers\EstadoKardexController.cs" />
-    <Compile Remove="Controllers\KardexController.cs" />
-    <Compile Remove="Controllers\LotePruebasController.cs" />
-    <Compile Remove="Controllers\MunicipiosController.cs" />
-    <Compile Remove="Controllers\PaisesController.cs" />
-    <Compile Remove="Controllers\Personalizados\TiposPruebasPropiedadesController.cs" />
-    <Compile Remove="Controllers\ProducionPruebasController.cs" />
-    <Compile Remove="Controllers\PropiedadesPruebasController.cs" />
-    <Compile Remove="Controllers\ProveedoresController.cs" />
-    <Compile Remove="Controllers\SimuladorHarinaController.cs" />
-    <Compile Remove="Controllers\TipoMovimientoKardexController.cs" />
-    <Compile Remove="Controllers\TiposPruebasController.cs" />
-    <Compile Remove="Controllers\TiposPruebasPropiedadesController.cs" />
     <Compile Remove="Controllers\TokenBlackListController.cs" />
-    <Compile Remove="Controllers\UnidadesController.cs" />
     <Compile Remove="Controllers\UsersController.cs" />
   </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="10.0.0" />
@@ -61,11 +43,7 @@
 
 
   <ItemGroup>
-    <Folder Include="Controllers\Personalizados\" />
-  </ItemGroup>
-
-
-  <ItemGroup>
+    <ProjectReference Include="..\Auto.Pay.Application.Dtos2\Auto.Pay.Application.Dtos.csproj" />
     <ProjectReference Include="..\Auto.Pay.Application.Interfaces2\Auto.Pay.Application.Interfaces.csproj" />
     <ProjectReference Include="..\Auto.Pay.Application.Main2\Auto.Pay.Application.Main.csproj" />
     <ProjectReference Include="..\Auto.Pay.BusinessLogic.Core2\Auto.Pay.BusinessLogic.Core.csproj" />
@@ -74,6 +52,9 @@
     <ProjectReference Include="..\Auto.Pay.Transversal.Common\Auto.Pay.Transversal.Common.csproj" />
     <ProjectReference Include="..\Auto.Pay.Transversal.Logging\Auto.Pay.Transversal.Logging.csproj" />
   </ItemGroup>
+
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 
 

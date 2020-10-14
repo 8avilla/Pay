@@ -12,6 +12,7 @@ namespace Auto.Pay.Application.Dtos
         //public int IdSystem { get; set; }
 
         public string PaymentReferenceGuid { get; set; }
+        public string BusinessID { get; set; }
 
         //[JsonProperty(PropertyName = "amount")]
         //public long Amount { get; set; }
@@ -61,6 +62,7 @@ namespace Auto.Pay.Application.Dtos
                 //Description = registerOrderDTO.Description,
                 FailUrl = registerOrderDTO.FailUrl,
                 ReturnUrl = registerOrderDTO.ReturnUrl,
+                BusinessID = registerOrderDTO.BusinessID,
                 //Features = registerOrderDTO.Features,
                 //JsonParams = registerOrderDTO.JsonParams,
                 //MerchantLogin = registerOrderDTO.MerchantLogin,

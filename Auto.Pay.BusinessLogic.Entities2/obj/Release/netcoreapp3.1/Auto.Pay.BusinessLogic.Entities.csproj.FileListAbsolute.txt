@@ -1,0 +1,9 @@
+C:\Proyectos\Pay\Auto.Pay.BusinessLogic.Entities2\bin\Release\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities.deps.json
+C:\Proyectos\Pay\Auto.Pay.BusinessLogic.Entities2\bin\Release\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities.dll
+C:\Proyectos\Pay\Auto.Pay.BusinessLogic.Entities2\bin\Release\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities.pdb
+C:\Proyectos\Pay\Auto.Pay.BusinessLogic.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\Pay\Auto.Pay.BusinessLogic.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities.AssemblyInfo.cs
+C:\Proyectos\Pay\Auto.Pay.BusinessLogic.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\Pay\Auto.Pay.BusinessLogic.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities.dll
+C:\Proyectos\Pay\Auto.Pay.BusinessLogic.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities.pdb
+C:\Proyectos\Pay\Auto.Pay.BusinessLogic.Entities2\obj\Release\netcoreapp3.1\Auto.Pay.BusinessLogic.Entities.csprojAssemblyReference.cache
