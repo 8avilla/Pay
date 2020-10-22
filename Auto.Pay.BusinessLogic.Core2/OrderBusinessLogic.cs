@@ -5,6 +5,8 @@ using Auto.Pay.Transversal.Common;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using System;
+using System.Collections.Generic;
+using System.Collections.Specialized;
 using System.Net.Http;
 
 namespace Auto.Pay.BusinessLogic.Core
@@ -22,7 +24,7 @@ namespace Auto.Pay.BusinessLogic.Core
 
         public ResponseStatusOrderCredibancoEBL StatusOrden(string orderCredibancoId, string businessID, string paymentReferenceGuid)
         {
-            PaymentSettings paymentSetting = Constants.GetPaymentSettings(businessID);
+            CredibanCoSetting paymentSetting = Constants.GetPaymentSettings(businessID);
 
             //if ( string.IsNullOrEmpty(language) || language == "string")
             //{
@@ -33,7 +35,7 @@ namespace Auto.Pay.BusinessLogic.Core
 
             if (orderEP == null)
             {
-                throw new  ArgumentException("No existe el Order Id");
+                throw new ArgumentException("No existe el Order Id");
             }
 
             using (HttpClient client = new HttpClient())
@@ -63,47 +65,48 @@ namespace Auto.Pay.BusinessLogic.Core
         {
             PaymentReferenceQuriiEBL paymentReferenceQuriiEBL = null;
 
-            PaymentSettings paymentSetting = Constants.GetPaymentSettings(requestRegisterOrderCredibancoEBL.BusinessID);
+
+            string file = System.IO.File.ReadAllText(@"CredibanCoSettings.json");
+
+            List<CredibanCoSetting> credibanCoSettings = JsonConvert.DeserializeObject<List<CredibanCoSetting>>(file);
+
+            CredibanCoSetting setting = credibanCoSettings.Find(s => s.Code.Equals(requestRegisterOrderCredibancoEBL.BusinessID));
+
 
             using (HttpClient client = new HttpClient())
             {
-                client.DefaultRequestHeaders.Add("User-Agent", "Pay " + paymentSetting.BusinessName);
+                client.DefaultRequestHeaders.Add("User-Agent", "Pay " + setting.BusinessName);
 
-                string requestUri = paymentSetting.UrlGetPaymentGuide.Trim() + requestRegisterOrderCredibancoEBL.PaymentReferenceGuid;
-                //requestUri = "http://dummy.restapiexample.com/api/v1/employees";
-                //requestUri = "https://pay.tiendaautofinanciera.com/default/test";
+                string requestUri = setting.UrlGetPaymentGuide.Trim() + requestRegisterOrderCredibancoEBL.PaymentReferenceGuid;
 
                 HttpResponseMessage response = client.GetAsync(requestUri).Result;
                 response.EnsureSuccessStatusCode();
 
                 string responseBody = response.Content.ReadAsStringAsync().Result;
 
-                //return new ResponseRegisterOrderCredibancoEBL {
-                //    ErrorMessage = responseBody
-                //};
 
                 paymentReferenceQuriiEBL = JsonConvert.DeserializeObject<PaymentReferenceQuriiEBL>(responseBody);
             }
 
-            requestRegisterOrderCredibancoEBL.Amount= paymentReferenceQuriiEBL.Amount;
-            requestRegisterOrderCredibancoEBL.UserName= paymentSetting.UserName;
-            requestRegisterOrderCredibancoEBL.Password = paymentSetting.Password;
-            requestRegisterOrderCredibancoEBL.ReturnUrl = paymentSetting.ReturnUrl + requestRegisterOrderCredibancoEBL.PaymentReferenceGuid + "&businessID=" + requestRegisterOrderCredibancoEBL.BusinessID;
-            requestRegisterOrderCredibancoEBL.FailUrl = paymentSetting.FailUrl + requestRegisterOrderCredibancoEBL.PaymentReferenceGuid + "&businessID=" + requestRegisterOrderCredibancoEBL.BusinessID;
+            requestRegisterOrderCredibancoEBL.Amount = paymentReferenceQuriiEBL.Amount;
+            requestRegisterOrderCredibancoEBL.UserName = setting.UserName;
+            requestRegisterOrderCredibancoEBL.Password = setting.Password;
+            requestRegisterOrderCredibancoEBL.ReturnUrl = setting.ReturnUrl + requestRegisterOrderCredibancoEBL.PaymentReferenceGuid + "&businessID=" + requestRegisterOrderCredibancoEBL.BusinessID;
+            requestRegisterOrderCredibancoEBL.FailUrl = setting.FailUrl + requestRegisterOrderCredibancoEBL.PaymentReferenceGuid + "&businessID=" + requestRegisterOrderCredibancoEBL.BusinessID;
 
             if (string.IsNullOrEmpty(requestRegisterOrderCredibancoEBL.Currency) || requestRegisterOrderCredibancoEBL.Currency == "string")
             {
-                requestRegisterOrderCredibancoEBL.Currency = paymentSetting.CurrencyDefault;
+                requestRegisterOrderCredibancoEBL.Currency = setting.CurrencyDefault;
             }
 
             if (string.IsNullOrEmpty(requestRegisterOrderCredibancoEBL.Language) || requestRegisterOrderCredibancoEBL.Language == "string")
             {
-                requestRegisterOrderCredibancoEBL.Language = paymentSetting.LanguageDefault;
+                requestRegisterOrderCredibancoEBL.Language = setting.LanguageDefault;
             }
 
-            requestRegisterOrderCredibancoEBL.ExpirationDate = DateTime.Now.AddMinutes(paymentSetting.ExpirationDateMinutes);
+            requestRegisterOrderCredibancoEBL.ExpirationDate = DateTime.Now.AddMinutes(setting.ExpirationDateMinutes);
             requestRegisterOrderCredibancoEBL.IdSystem = 1;
-            requestRegisterOrderCredibancoEBL.OrderSistemId = DateTime.Now.ToString().Trim().Replace(".","").Replace("/", "").Replace(":", "").Replace(" ", "").Replace("a", "").Replace("m", "").Replace("p", "");
+            requestRegisterOrderCredibancoEBL.OrderSistemId = DateTime.Now.ToString().Trim().Replace(".", "").Replace("/", "").Replace(":", "").Replace(" ", "").Replace("a", "").Replace("m", "").Replace("p", "");
             Random random = new Random();
             requestRegisterOrderCredibancoEBL.OrderSistemId += random.Next(1, 60000000);
             //Regex regex = new Regex(@"/($[0-9,]+(.[0-9]{2})?)/");
@@ -113,8 +116,8 @@ namespace Auto.Pay.BusinessLogic.Core
 
             using (HttpClient client = new HttpClient())
             {
-                string requestUri = string.Format(paymentSetting.UrlRegisterOrder + "?userName={0}&password={1}&orderNumber={2}&amount={3}&currency={4}&returnUrl={5}&failUrl={6}"
-                    , paymentSetting.UserName, paymentSetting.Password, requestRegisterOrderCredibancoEBL.OrderSistemId, requestRegisterOrderCredibancoEBL.Amount.ToString() + "00",
+                string requestUri = string.Format(setting.UrlRegisterOrder + "?userName={0}&password={1}&orderNumber={2}&amount={3}&currency={4}&returnUrl={5}&failUrl={6}"
+                    , setting.UserName, setting.Password, requestRegisterOrderCredibancoEBL.OrderSistemId, requestRegisterOrderCredibancoEBL.Amount.ToString() + "00",
                     requestRegisterOrderCredibancoEBL.Currency, requestRegisterOrderCredibancoEBL.ReturnUrl, requestRegisterOrderCredibancoEBL.FailUrl);
 
                 HttpResponseMessage response = client.GetAsync(requestUri).Result;

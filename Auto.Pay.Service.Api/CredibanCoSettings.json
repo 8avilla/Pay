@@ -1,0 +1,30 @@
+[
+  {
+    "BusinessName": "Fonbienes",
+    "Code": "6831062e-c994-4686-a989-1964b1200cbc",
+    "UserName": "ELCTROPLAN-api",
+    "Password": "[Password*1]",
+    "LanguageDefault": "es",
+    "CurrencyDefault": "170",
+    "ExpirationDateMinutes": "20",
+    "UrlRegisterOrder": "https://ecouat.credibanco.com/payment/rest/register.do",
+    "UrlStatusOrder": "https://ecouat.credibanco.com/payment/rest/getOrderStatusExtended.do",
+    "ReturnUrl": "https://test.tiendaautofinanciera.com/?PaymentReferenceGuid=",
+    "FailUrl": "https://test.tiendaautofinanciera.com/status.html?PaymentReferenceGuid=",
+    "UrlGetPaymentGuide": "https://tiendaautofinanciera.com/ContratoDigital/GetPaymentGuide?PaymentReferenceGuid="
+  },
+  {
+    "BusinessName": "Autofinanciera",
+    "Code": "26e0e553-8bb9-41b2-869a-1fddaf06e900",
+    "UserName": "AUTOFINANCIERA-api",
+    "Password": "Autof20*",
+    "LanguageDefault": "es",
+    "CurrencyDefault": "170",
+    "ExpirationDateMinutes": "20",
+    "UrlRegisterOrder": "https://ecouat.credibanco.com/payment/rest/register.do",
+    "UrlStatusOrder": "https://ecouat.credibanco.com/payment/rest/getOrderStatusExtended.do",
+    "ReturnUrl": "https://test.tiendaautofinanciera.com/?PaymentReferenceGuid=",
+    "FailUrl": "https://test.tiendaautofinanciera.com/status.html?PaymentReferenceGuid=",
+    "UrlGetPaymentGuide": "https://tiendaautofinanciera.com/ContratoDigital/GetPaymentGuide?PaymentReferenceGuid="
+  }
+]

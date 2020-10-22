@@ -195,3 +195,4 @@ C:\Proyectos\Pay\Auto.Pay.Service.Api\bin\Debug\netcoreapp3.1\Auto.Pay.BusinessL
 C:\Proyectos\Pay\Auto.Pay.Service.Api\bin\Debug\netcoreapp3.1\Auto.Pay.BusinessLogic.Interfaces.pdb
 C:\Proyectos\Pay\Auto.Pay.Service.Api\bin\Debug\netcoreapp3.1\Auto.Pay.Persistence.Entities.pdb
 C:\Proyectos\Pay\Auto.Pay.Service.Api\bin\Debug\netcoreapp3.1\Auto.Pay.Persistence.Interfaces.pdb
+C:\Proyectos\Pay\Auto.Pay.Service.Api\bin\Debug\netcoreapp3.1\CredibanCoSettings.json

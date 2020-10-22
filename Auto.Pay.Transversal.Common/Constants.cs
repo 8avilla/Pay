@@ -8,18 +8,18 @@ namespace Auto.Pay.Transversal.Common
         public static string FonbienesID = "6831062e-c994-4686-a989-1964b1200cbc";
 
 
-        public static PaymentSettings GetPaymentSettings(string businessID) {
+        public static CredibanCoSetting GetPaymentSettings(string businessID) {
 
             switch (businessID) {
                 case "26e0e553-8bb9-41b2-869a-1fddaf06e900":
-                    return new PaymentSettings{
+                    return new CredibanCoSetting{
                         BusinessName = "Autofinanciera",
                         UserName = "AUTOFINANCIERA-api",
                         Password = "Auto20*"
                     };
 
                 case "6831062e-c994-4686-a989-1964b1200cbc":
-                    return new PaymentSettings
+                    return new CredibanCoSetting
                     {
                         BusinessName = "Fonbienes",
                         UserName = "ELCTROPLAN-api",
@@ -27,31 +27,33 @@ namespace Auto.Pay.Transversal.Common
                     };
 
                 default:
-                    return new PaymentSettings();
+                    return new CredibanCoSetting();
             }
         }
     }
 
 
-    public class PaymentSettings
+    public class CredibanCoSetting
     {
         public string UserName { get; set; }
         public string BusinessName { get; set; }
+        public string Code { get; set; }
         public string Password { get; set; }
-        public string LanguageDefault { get => "es"; }
-        public string CurrencyDefault { get => "170"; }
-        public int ExpirationDateMinutes { get => 20; }
+        public string LanguageDefault { get; set; }
+        public string CurrencyDefault { get; set; }
+        public int ExpirationDateMinutes { get; set; }
 
 
         //public string UrlRegisterOrder { get => "https://eco.credibanco.com/payment/rest/register.do"; }
-        public string UrlRegisterOrder { get => "https://ecouat.credibanco.com/payment/rest/register.do"; }
+        public string UrlRegisterOrder { get; set; }
 
 
         //public string UrlStatusOrder { get => "https://eco.credibanco.com/payment/rest/getOrderStatusExtended.do"; }
-        public string UrlStatusOrder { get => "https://ecouat.credibanco.com/payment/rest/getOrderStatusExtended.do"; }
-        public string UrlGetPaymentGuide { get => "https://tiendaautofinanciera.com/ContratoDigital/GetPaymentGuide?PaymentReferenceGuid="; }
-        public string ReturnUrl { get => "https://pay.tiendaautofinanciera.com/?PaymentReferenceGuid="; }
-        public string FailUrl { get => "https://pay.tiendaautofinanciera.com/status.html?PaymentReferenceGuid="; }
+        public string UrlStatusOrder { get; set; }
+        public string UrlGetPaymentGuide { get; set; }
+        //public string UrlGetPaymentGuide { get => "https://tiendaautofinanciera.com/ContratoDigital/GetPaymentGuide?PaymentReferenceGuid="; }
+        public string ReturnUrl { get; set; }
+        public string FailUrl { get; set; }
 
     }
 }
