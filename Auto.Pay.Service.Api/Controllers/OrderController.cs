@@ -24,9 +24,9 @@ namespace Auto.Pay.Servicio.Api.Controllers
 		}
 
 		[HttpGet("StatusOrden")]
-		public ActionResult StatusOrden(string orderCredibancoId, string businessID, string paymentReferenceGuid)
+		public ActionResult StatusOrden(string orderCredibancoId, string businessID)
 		{
-			return SuccesOk(_orderApplication.StatusOrden(orderCredibancoId, businessID, paymentReferenceGuid));
+			return SuccesOk(_orderApplication.StatusOrden(orderCredibancoId, businessID));
 		}
 	}
 }

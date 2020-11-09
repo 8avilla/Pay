@@ -3,14 +3,14 @@
     "BusinessName": "Fonbienes",
     "Code": "6831062e-c994-4686-a989-1964b1200cbc",
     "UserName": "ELCTROPLAN-api",
-    "Password": "[Password*1]",
+    "Password": "Fonbienes25*=",
     "LanguageDefault": "es",
     "CurrencyDefault": "170",
     "ExpirationDateMinutes": "20",
-    "UrlRegisterOrder": "https://ecouat.credibanco.com/payment/rest/register.do",
-    "UrlStatusOrder": "https://ecouat.credibanco.com/payment/rest/getOrderStatusExtended.do",
-    "ReturnUrl": "https://test.tiendaautofinanciera.com/?PaymentReferenceGuid=",
-    "FailUrl": "https://test.tiendaautofinanciera.com/status.html?PaymentReferenceGuid=",
+    "UrlRegisterOrder": "https://eco.credibanco.com/payment/rest/register.do",
+    "UrlStatusOrder": "https://eco.credibanco.com/payment/rest/getOrderStatusExtended.do",
+    "ReturnUrl": "https://pay.tiendaautofinanciera.com/?PaymentReferenceGuid=",
+    "FailUrl": "https://pay.tiendaautofinanciera.com/status.html?PaymentReferenceGuid=",
     "UrlGetPaymentGuide": "https://tiendaautofinanciera.com/ContratoDigital/GetPaymentGuide?PaymentReferenceGuid="
   },
   {
@@ -21,10 +21,10 @@
     "LanguageDefault": "es",
     "CurrencyDefault": "170",
     "ExpirationDateMinutes": "20",
-    "UrlRegisterOrder": "https://ecouat.credibanco.com/payment/rest/register.do",
-    "UrlStatusOrder": "https://ecouat.credibanco.com/payment/rest/getOrderStatusExtended.do",
-    "ReturnUrl": "https://test.tiendaautofinanciera.com/?PaymentReferenceGuid=",
-    "FailUrl": "https://test.tiendaautofinanciera.com/status.html?PaymentReferenceGuid=",
+    "UrlRegisterOrder": "https://eco.credibanco.com/payment/rest/register.do",
+    "UrlStatusOrder": "https://eco.credibanco.com/payment/rest/getOrderStatusExtended.do",
+    "ReturnUrl": "https://pay.tiendaautofinanciera.com/?PaymentReferenceGuid=",
+    "FailUrl": "https://pay.tiendaautofinanciera.com/status.html?PaymentReferenceGuid=",
     "UrlGetPaymentGuide": "https://tiendaautofinanciera.com/ContratoDigital/GetPaymentGuide?PaymentReferenceGuid="
   }
 ]

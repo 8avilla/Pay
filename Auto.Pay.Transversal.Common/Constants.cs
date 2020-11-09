@@ -42,18 +42,10 @@ namespace Auto.Pay.Transversal.Common
         public string LanguageDefault { get; set; }
         public string CurrencyDefault { get; set; }
         public int ExpirationDateMinutes { get; set; }
-
-
-        //public string UrlRegisterOrder { get => "https://eco.credibanco.com/payment/rest/register.do"; }
         public string UrlRegisterOrder { get; set; }
-
-
-        //public string UrlStatusOrder { get => "https://eco.credibanco.com/payment/rest/getOrderStatusExtended.do"; }
         public string UrlStatusOrder { get; set; }
         public string UrlGetPaymentGuide { get; set; }
-        //public string UrlGetPaymentGuide { get => "https://tiendaautofinanciera.com/ContratoDigital/GetPaymentGuide?PaymentReferenceGuid="; }
         public string ReturnUrl { get; set; }
         public string FailUrl { get; set; }
-
     }
 }

@@ -23,8 +23,8 @@ namespace Auto.Pay.Application.Dtos
         //[JsonProperty(PropertyName = "language")]
         //public string Language { get; set; }
 
-        public string ReturnUrl { get; set; }
-        public string FailUrl { get; set; }
+        //public string ReturnUrl { get; set; }
+        //public string FailUrl { get; set; }
         //public string Description { get; set; }
         //public string PageView { get; set; }
         //public string ClientId { get; set; }
@@ -60,8 +60,8 @@ namespace Auto.Pay.Application.Dtos
                 //SessionTimeoutSecs = registerOrderDTO.SessionTimeoutSecs,
                 //ClientId = registerOrderDTO.ClientId,
                 //Description = registerOrderDTO.Description,
-                FailUrl = registerOrderDTO.FailUrl,
-                ReturnUrl = registerOrderDTO.ReturnUrl,
+                //FailUrl = registerOrderDTO.FailUrl,
+                //ReturnUrl = registerOrderDTO.ReturnUrl,
                 BusinessID = registerOrderDTO.BusinessID,
                 //Features = registerOrderDTO.Features,
                 //JsonParams = registerOrderDTO.JsonParams,

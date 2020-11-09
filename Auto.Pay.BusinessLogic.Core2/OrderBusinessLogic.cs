@@ -22,14 +22,13 @@ namespace Auto.Pay.BusinessLogic.Core
             _configuracion = iConfig;
         }
 
-        public ResponseStatusOrderCredibancoEBL StatusOrden(string orderCredibancoId, string businessID, string paymentReferenceGuid)
+        public ResponseStatusOrderCredibancoEBL StatusOrden(string orderCredibancoId, string businessID)
         {
-            CredibanCoSetting paymentSetting = Constants.GetPaymentSettings(businessID);
+            string file = System.IO.File.ReadAllText(@"CredibanCoSettings.json");
 
-            //if ( string.IsNullOrEmpty(language) || language == "string")
-            //{
-            //    language = paymentSetting.LanguageDefault;
-            //}
+            List<CredibanCoSetting> credibanCoSettings = JsonConvert.DeserializeObject<List<CredibanCoSetting>>(file);
+
+            CredibanCoSetting setting = credibanCoSettings.Find(s => s.Code.Equals(businessID));
 
             OrderEP orderEP = _unitOfWorkInfrastructure.Order.FindFirstOrDefault<OrderEP>(o => o.OrderCredibancoId.Equals(orderCredibancoId));
 
@@ -40,8 +39,8 @@ namespace Auto.Pay.BusinessLogic.Core
 
             using (HttpClient client = new HttpClient())
             {
-                string requestUri = string.Format(paymentSetting.UrlStatusOrder + "?userName={0}&password={1}&orderId={2}&language={3}",
-                    paymentSetting.UserName, paymentSetting.Password, orderCredibancoId, paymentSetting.LanguageDefault);
+                string requestUri = string.Format(setting.UrlStatusOrder + "?userName={0}&password={1}&orderId={2}&language={3}",
+                    setting.UserName, setting.Password, orderCredibancoId, setting.LanguageDefault);
 
                 HttpResponseMessage response = client.GetAsync(requestUri).Result;
                 response.EnsureSuccessStatusCode();
@@ -72,7 +71,6 @@ namespace Auto.Pay.BusinessLogic.Core
 
             CredibanCoSetting setting = credibanCoSettings.Find(s => s.Code.Equals(requestRegisterOrderCredibancoEBL.BusinessID));
 
-
             using (HttpClient client = new HttpClient())
             {
                 client.DefaultRequestHeaders.Add("User-Agent", "Pay " + setting.BusinessName);
@@ -83,7 +81,6 @@ namespace Auto.Pay.BusinessLogic.Core
                 response.EnsureSuccessStatusCode();
 
                 string responseBody = response.Content.ReadAsStringAsync().Result;
-
 
                 paymentReferenceQuriiEBL = JsonConvert.DeserializeObject<PaymentReferenceQuriiEBL>(responseBody);
             }

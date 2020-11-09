@@ -7,6 +7,6 @@ namespace Auto.Pay.Application.Interfaces
     public partial interface IOrderApplication : IGenericApplication
 	{
         EntityBusinessLogic RegisterOrder(RegisterOrderDTO dto);
-        EntityBusinessLogic StatusOrden(string orderCredibancoId, string businessID, string paymentReferenceGuid);
+        EntityBusinessLogic StatusOrden(string orderCredibancoId, string businessID);
     }
 }

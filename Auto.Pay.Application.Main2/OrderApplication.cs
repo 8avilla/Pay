@@ -22,9 +22,9 @@ namespace Auto.Pay.Application.Main
 
             return _managerBusinessLogic.Order.RegisterOrder(orderEBL);
 		}
-		public EntityBusinessLogic StatusOrden(string orderCredibancoId, string businessID, string paymentReferenceGuid)
+		public EntityBusinessLogic StatusOrden(string orderCredibancoId, string businessID)
         {
-            return _managerBusinessLogic.Order.StatusOrden(orderCredibancoId, businessID, paymentReferenceGuid);
+            return _managerBusinessLogic.Order.StatusOrden(orderCredibancoId, businessID);
 		}
 
 
